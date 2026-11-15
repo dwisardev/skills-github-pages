@@ -1,3 +1,1 @@
----
-title: Welcome to my blog!
----
+#Title: Welcome to page
