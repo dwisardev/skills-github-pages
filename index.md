@@ -1,2 +1,4 @@
-#Title:"YOUR TITLE"
+---
+title: "YOUR-TITLE"
 date: YYYY-MM-DD
+---
