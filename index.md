@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: 2026-11-15
+title: "Welcome to my blog"
+date: 2025-05-15
 ---
